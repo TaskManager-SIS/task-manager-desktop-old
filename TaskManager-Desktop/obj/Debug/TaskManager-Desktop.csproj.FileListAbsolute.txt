@@ -1,0 +1,11 @@
+D:\Documents\TOLEDO\2023-01\Gerenciamento de Qualidade - Alisson\Front_Desktop\TaskManager-Desktop\TaskManager-Desktop\TaskManager-Desktop\bin\Debug\TaskManager-Desktop.exe.config
+D:\Documents\TOLEDO\2023-01\Gerenciamento de Qualidade - Alisson\Front_Desktop\TaskManager-Desktop\TaskManager-Desktop\TaskManager-Desktop\bin\Debug\TaskManager-Desktop.exe
+D:\Documents\TOLEDO\2023-01\Gerenciamento de Qualidade - Alisson\Front_Desktop\TaskManager-Desktop\TaskManager-Desktop\TaskManager-Desktop\bin\Debug\TaskManager-Desktop.pdb
+D:\Documents\TOLEDO\2023-01\Gerenciamento de Qualidade - Alisson\Front_Desktop\TaskManager-Desktop\TaskManager-Desktop\TaskManager-Desktop\obj\Debug\TaskManager-Desktop.csproj.AssemblyReference.cache
+D:\Documents\TOLEDO\2023-01\Gerenciamento de Qualidade - Alisson\Front_Desktop\TaskManager-Desktop\TaskManager-Desktop\TaskManager-Desktop\obj\Debug\TaskManager-Desktop.csproj.SuggestedBindingRedirects.cache
+D:\Documents\TOLEDO\2023-01\Gerenciamento de Qualidade - Alisson\Front_Desktop\TaskManager-Desktop\TaskManager-Desktop\TaskManager-Desktop\obj\Debug\TaskManager_Desktop.Properties.Resources.resources
+D:\Documents\TOLEDO\2023-01\Gerenciamento de Qualidade - Alisson\Front_Desktop\TaskManager-Desktop\TaskManager-Desktop\TaskManager-Desktop\obj\Debug\TaskManager_Desktop.Cadastro.resources
+D:\Documents\TOLEDO\2023-01\Gerenciamento de Qualidade - Alisson\Front_Desktop\TaskManager-Desktop\TaskManager-Desktop\TaskManager-Desktop\obj\Debug\TaskManager-Desktop.csproj.GenerateResource.cache
+D:\Documents\TOLEDO\2023-01\Gerenciamento de Qualidade - Alisson\Front_Desktop\TaskManager-Desktop\TaskManager-Desktop\TaskManager-Desktop\obj\Debug\TaskManager-Desktop.csproj.CoreCompileInputs.cache
+D:\Documents\TOLEDO\2023-01\Gerenciamento de Qualidade - Alisson\Front_Desktop\TaskManager-Desktop\TaskManager-Desktop\TaskManager-Desktop\obj\Debug\TaskManager-Desktop.exe
+D:\Documents\TOLEDO\2023-01\Gerenciamento de Qualidade - Alisson\Front_Desktop\TaskManager-Desktop\TaskManager-Desktop\TaskManager-Desktop\obj\Debug\TaskManager-Desktop.pdb
