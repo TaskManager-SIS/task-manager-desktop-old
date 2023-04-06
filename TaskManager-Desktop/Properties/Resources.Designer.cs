@@ -63,9 +63,29 @@ namespace TaskManager_Desktop.Properties {
         /// <summary>
         ///   Consulta um recurso localizado do tipo System.Drawing.Bitmap.
         /// </summary>
-        internal static System.Drawing.Bitmap Group_24 {
+        internal static System.Drawing.Bitmap logo_task {
             get {
-                object obj = ResourceManager.GetObject("Group 24", resourceCulture);
+                object obj = ResourceManager.GetObject("logo_task", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Consulta um recurso localizado do tipo System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap LogoText {
+            get {
+                object obj = ResourceManager.GetObject("LogoText", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Consulta um recurso localizado do tipo System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap LogoText2 {
+            get {
+                object obj = ResourceManager.GetObject("LogoText2", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
             }
         }
